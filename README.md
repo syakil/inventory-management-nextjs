@@ -1,6 +1,6 @@
 # Inventory Management Dashboard
 
-Aplikasi ini dikembangkan mengikuti tutorial dari video YouTube **Build Next.js Inventory Management Dashboard & Deploy on AWS**. Aplikasi ini bertujuan untuk mempermudah pengelolaan inventaris, mencatat barang masuk/keluar, dan memantau stok dengan antarmuka yang modern dan user-friendly.
+Aplikasi ini bertujuan untuk mempermudah pengelolaan inventaris, mencatat barang masuk/keluar, dan memantau stok dengan antarmuka yang modern dan user-friendly.
 
 ## Fitur Utama
 
